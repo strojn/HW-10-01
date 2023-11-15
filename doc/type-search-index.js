@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.example.annotations","l":"Calculator"},{"p":"org.example.annotations","l":"CalculatorValues"},{"p":"org.example.annotations","l":"Main"},{"p":"org.example","l":"Main"}];updateSearchResults();
